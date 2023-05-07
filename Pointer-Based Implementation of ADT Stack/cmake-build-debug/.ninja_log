@@ -1,0 +1,9 @@
+# ninja log v5
+106	1041	7047156178945960	CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir/node.cpp.obj	843759f646b09313
+3	778	7047156892568611	CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir/stack.cpp.obj	96f4a9f57db49b02
+33	958	7047156177220579	CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir/main.cpp.obj	559ea851a30a9517
+810	1700	7047156901757851	Pointer_Based_Implementation_of_ADT_Stack.exe	a26f74bee87c1ddd
+31	1304	7051693871988882	CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir/node.cpp.obj	e715c5d65542ae48
+74	1331	7051693872272401	CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir/main.cpp.obj	ed86946f5330b97c
+139	1504	7051693873997833	CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir/stack.cpp.obj	619e0e6d5ed07b7d
+1526	3110	7051693890015100	Pointer_Based_Implementation_of_ADT_Stack.exe	1f9028ee58f03515

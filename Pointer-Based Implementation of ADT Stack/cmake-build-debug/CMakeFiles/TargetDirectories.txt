@@ -1,0 +1,3 @@
+E:/Self-Improvement/Data Structure/Codes/Pointer-Based Implementation of ADT Stack/cmake-build-debug/CMakeFiles/Pointer_Based_Implementation_of_ADT_Stack.dir
+E:/Self-Improvement/Data Structure/Codes/Pointer-Based Implementation of ADT Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Self-Improvement/Data Structure/Codes/Pointer-Based Implementation of ADT Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
