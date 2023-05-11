@@ -1,0 +1,22 @@
+# ninja log v5
+9	1117	7054349116337172	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+4	702	7054126859838329	CMakeFiles/ADT_Binary_Search_Tree.dir/main.cpp.obj	c6b12aebba7bbd10
+1117	2005	7054349125181107	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
+3	509	7053643426471048	CMakeFiles/ADT_Binary_Search_Tree.dir/BSTNode.cpp.obj	4e55d04ef508c08
+113	2238	7053982895945581	CMakeFiles/ADT_Binary_Search_Tree.dir/graphicalTool.cpp.obj	151d201654226881
+3	769	7054351270785371	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+770	1513	7054351278185218	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
+4	914	7054353066541058	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+915	1622	7054353073572644	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
+5	2577	7054405539302783	CMakeFiles/ADT_Binary_Search_Tree.dir/main.cpp.obj	c6b12aebba7bbd10
+113	2597	7054405539612243	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+2597	5036	7054405563952406	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
+119	2621	7054501463297183	CMakeFiles/ADT_Binary_Search_Tree.dir/main.cpp.obj	c6b12aebba7bbd10
+4	2699	7054501464085065	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+2700	4234	7054501479364330	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
+3	2094	7054564722481714	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+136	2095	7054564722472133	CMakeFiles/ADT_Binary_Search_Tree.dir/main.cpp.obj	c6b12aebba7bbd10
+2095	4047	7054564741983848	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
+1298	4498	7054865005788590	CMakeFiles/ADT_Binary_Search_Tree.dir/main.cpp.obj	c6b12aebba7bbd10
+1444	4502	7054865006028097	CMakeFiles/ADT_Binary_Search_Tree.dir/BST.cpp.obj	c8c868cd162d77fe
+4502	6492	7054865025901862	ADT_Binary_Search_Tree.exe	8b241ad11b19a9dd
