@@ -37,7 +37,7 @@ int main() {
         cin >> arr[i];
 
     insertionSort(arr, sz);
-    cout << "After Selection Sort: \n";
+    cout << "After Insertion Sort: \n";
     print(arr, sz);
 
     delete [] arr;
