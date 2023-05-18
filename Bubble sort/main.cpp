@@ -35,7 +35,7 @@ int main() {
         cin >> arr[i];
 
     sort(arr, sz);
-    cout << "After Selection Sort: \n";
+    cout << "After Bubble Sort: \n";
     print(arr, sz);
 
     delete [] arr;
